@@ -1,5 +1,5 @@
 ####################----Insurance Charges Analysis----####################
-#Name:Snehal Shetye, Yuting Tao
+#Name:Snehal Shetye
 
 install.packages("ggplot2")
 library(ggplot2)
